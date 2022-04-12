@@ -39,8 +39,7 @@ proxy-groups:
   proxies: []
 - name: 实验性
   type: select
-  proxies:
-  - HK
+  proxies: []
 - name: NF
   type: select
   proxies:
