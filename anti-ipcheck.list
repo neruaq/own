@@ -15,3 +15,6 @@ DOMAIN,www.zhihu.com
 DOMAIN,api.zhihu.com
 DOMAIN-SUFFIX,zhihu.com
 IP-CIDR,103.41.167.0/24,no-resolve
+# ======= IT之家 ======= #
+DOMAIN-SUFFIX,ruanmei.com
+DOMAIN-SUFFIX,ithome.com
