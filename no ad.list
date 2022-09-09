@@ -1,0 +1,18 @@
+URL-REGEX,^https?:\/\/pgdt\.gtimg\.cn // 腾讯视频 修正+去广告
+URL-REGEX,^https?:\/\/c\.l\.qq\/.com // 腾讯视频 修正+去广告
+URL-REGEX,^https:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery\/adver$ // 交管12123 去广告
+URL-REGEX,^https:\/\/api-mifit-cn2\.huami\.com\/discovery\/mi\/cards\/startpage_ad // 小米运动 去广告
+URL-REGEX,https://api.m.jd.com/client.action\?functionId=lite_advertising // 京东极速版 去广告
+URL-REGEX,^https:\/\/wallet\.95516\.com\/s\/wl\/icon\/long // 云闪付 去广告
+URL-REGEX,^https:\/\/img-ys011\.didistatic\.com\/static // 08 开屏广告
+DOMAIN,tmeadcomm.y.qq.com
+DOMAIN,ad.tencentmusic.com
+DOMAIN,adstats.tencentmusic.com
+DOMAIN,tmead.y.qq.com
+DOMAIN-SUFFIX,rqd.qq.com
+DOMAIN-SUFFIX,wup.imtt.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,android.rqd.qq.com
+DOMAIN-SUFFIX,e.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,v.gdt.qq.com
