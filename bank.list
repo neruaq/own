@@ -2,10 +2,9 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,dcu.org
 DOMAIN-KEYWORD,discover
-DOMAIN-SUFFIX,citibank.com
-DOMAIN-SUFFIX,citi.com
-DOMAIN-SUFFIX,citicards.com
-DOMAIN-SUFFIX,capitalone.com
+DOMAIN-KEYWORD,citi
+DOMAIN-KEYWORD,citicards
+DOMAIN-KEYWORD,capitalone
 DOMAIN-SUFFIX,americanexpress.com
 DOMAIN-KEYWORD,curve
 DOMAIN-SUFFIX,walmart.com
