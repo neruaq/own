@@ -3,9 +3,8 @@ DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,dcu.org
 DOMAIN-KEYWORD,discover
 DOMAIN-KEYWORD,citi
-DOMAIN-KEYWORD,citicards
 DOMAIN-KEYWORD,capitalone
-DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-KEYWORD,americanexpress
 DOMAIN-KEYWORD,curve
 DOMAIN-SUFFIX,walmart.com
 DOMAIN-SUFFIX,N26.com
