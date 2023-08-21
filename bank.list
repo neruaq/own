@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,stripe
 DOMAIN-SUFFIX,equifax.com
 DOMAIN-SUFFIX,dcu.org
 DOMAIN-KEYWORD,discover
@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,walmart.com
 DOMAIN-SUFFIX,N26.com
 DOMAIN-SUFFIX,thankyou.com
 DOMAIN-SUFFIX,wise.com
+DOMAIN-KEYWOED,Ultra
